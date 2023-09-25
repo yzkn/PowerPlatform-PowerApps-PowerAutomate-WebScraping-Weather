@@ -1,0 +1,134 @@
+{
+    "forecast-point-weather": [
+        {
+            "Code": "01",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/01.gif",
+            "Name": "晴れ（昼間）"
+        },
+        {
+            "Code": "02",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/02.gif",
+            "Name": "曇り"
+        },
+        {
+            "Code": "03",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/03.gif",
+            "Name": ""
+        },
+        {
+            "Code": "04",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/04.gif",
+            "Name": ""
+        },
+        {
+            "Code": "05",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/05.gif",
+            "Name": "乾雪"
+        },
+        {
+            "Code": "06",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/06.gif",
+            "Name": "湿雪"
+        },
+        {
+            "Code": "07",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/07.gif",
+            "Name": "みぞれ"
+        },
+        {
+            "Code": "08",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/08.gif",
+            "Name": "不明"
+        },
+        {
+            "Code": "09",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/09.gif",
+            "Name": "小雨"
+        },
+        {
+            "Code": "10",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/10.gif",
+            "Name": "弱雨"
+        },
+        {
+            "Code": "11",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/11.gif",
+            "Name": "雨"
+        },
+        {
+            "Code": "12",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/12.gif",
+            "Name": "強雨"
+        },
+        {
+            "Code": "13",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/13.gif",
+            "Name": "豪雨"
+        },
+        {
+            "Code": "01_n",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/01_n.gif",
+            "Name": "晴れ（夜間）"
+        },
+        {
+            "Code": "02_n",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/02_n.gif",
+            "Name": "曇り"
+        },
+        {
+            "Code": "03_n",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/03_n.gif",
+            "Name": ""
+        },
+        {
+            "Code": "04_n",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/04_n.gif",
+            "Name": ""
+        },
+        {
+            "Code": "05_n",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/05_n.gif",
+            "Name": "乾雪"
+        },
+        {
+            "Code": "06_n",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/06_n.gif",
+            "Name": "湿雪"
+        },
+        {
+            "Code": "07_n",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/07_n.gif",
+            "Name": "みぞれ"
+        },
+        {
+            "Code": "08_n",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/08_n.gif",
+            "Name": "不明"
+        },
+        {
+            "Code": "09_n",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/09_n.gif",
+            "Name": "小雨"
+        },
+        {
+            "Code": "10_n",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/10_n.gif",
+            "Name": "弱雨"
+        },
+        {
+            "Code": "11_n",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/11_n.gif",
+            "Name": "雨"
+        },
+        {
+            "Code": "12_n",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/12_n.gif",
+            "Name": "強雨"
+        },
+        {
+            "Code": "13_n",
+            "IconUrl": "https://static.tenki.jp/images/icon/forecast-point-weather/13_n.gif",
+            "Name": "豪雨"
+        }
+    ]
+}

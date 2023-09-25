@@ -1,0 +1,576 @@
+{
+    "forecast-days-weather": [
+        {
+            "icon": "01",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/01.gif",
+            "title": "晴れ（昼間）"
+        },
+        {
+            "icon": "02",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/02.gif",
+            "title": "晴時々曇り"
+        },
+        {
+            "icon": "03",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/03.gif",
+            "title": "晴時々雨"
+        },
+        {
+            "icon": "04",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/04.gif",
+            "title": "晴時々雪"
+        },
+        {
+            "icon": "05",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/05.gif",
+            "title": "晴後曇り"
+        },
+        {
+            "icon": "06",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/06.gif",
+            "title": "晴後雨"
+        },
+        {
+            "icon": "07",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/07.gif",
+            "title": "晴後雪"
+        },
+        {
+            "icon": "08",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/08.gif",
+            "title": "曇り"
+        },
+        {
+            "icon": "09",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/09.gif",
+            "title": "曇り時々晴"
+        },
+        {
+            "icon": "10",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/10.gif",
+            "title": "曇り時々雨"
+        },
+        {
+            "icon": "11",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/11.gif",
+            "title": "曇り時々雪"
+        },
+        {
+            "icon": "12",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/12.gif",
+            "title": "曇り後晴"
+        },
+        {
+            "icon": "13",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/13.gif",
+            "title": "曇り後雨"
+        },
+        {
+            "icon": "14",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/14.gif",
+            "title": "曇り後雪"
+        },
+        {
+            "icon": "15",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/15.gif",
+            "title": "雨"
+        },
+        {
+            "icon": "16",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/16.gif",
+            "title": "雨時々晴"
+        },
+        {
+            "icon": "17",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/17.gif",
+            "title": "雨時々曇り"
+        },
+        {
+            "icon": "18",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/18.gif",
+            "title": "雨時々雪"
+        },
+        {
+            "icon": "19",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/19.gif",
+            "title": "雨後晴"
+        },
+        {
+            "icon": "20",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/20.gif",
+            "title": "雨後曇り"
+        },
+        {
+            "icon": "21",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/21.gif",
+            "title": "雨後雪"
+        },
+        {
+            "icon": "22",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/22.gif",
+            "title": "暴風雨"
+        },
+        {
+            "icon": "23",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/23.gif",
+            "title": "雪"
+        },
+        {
+            "icon": "24",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/24.gif",
+            "title": "雪時々晴"
+        },
+        {
+            "icon": "25",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/25.gif",
+            "title": "雪時々曇り"
+        },
+        {
+            "icon": "26",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/26.gif",
+            "title": "雪時々雨"
+        },
+        {
+            "icon": "27",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/27.gif",
+            "title": "雪後晴"
+        },
+        {
+            "icon": "28",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/28.gif",
+            "title": "雪後曇り"
+        },
+        {
+            "icon": "29",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/29.gif",
+            "title": "雪後雨"
+        },
+        {
+            "icon": "30",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/30.gif",
+            "title": "暴風雪"
+        },
+        {
+            "icon": "31",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/31.gif",
+            "title": ""
+        },
+        {
+            "icon": "32",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/32.gif",
+            "title": ""
+        },
+        {
+            "icon": "33",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/33.gif",
+            "title": ""
+        },
+        {
+            "icon": "34",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/34.gif",
+            "title": ""
+        },
+        {
+            "icon": "35",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/35.gif",
+            "title": ""
+        },
+        {
+            "icon": "36",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/36.gif",
+            "title": ""
+        },
+        {
+            "icon": "37",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/37.gif",
+            "title": ""
+        },
+        {
+            "icon": "38",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/38.gif",
+            "title": ""
+        },
+        {
+            "icon": "39",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/39.gif",
+            "title": ""
+        },
+        {
+            "icon": "40",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/40.gif",
+            "title": ""
+        },
+        {
+            "icon": "41",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/41.gif",
+            "title": ""
+        },
+        {
+            "icon": "42",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/42.gif",
+            "title": ""
+        },
+        {
+            "icon": "43",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/43.gif",
+            "title": ""
+        },
+        {
+            "icon": "44",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/44.gif",
+            "title": ""
+        },
+        {
+            "icon": "01_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/01_n.gif",
+            "title": "晴れ（夜間）"
+        },
+        {
+            "icon": "02_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/02_n.gif",
+            "title": "晴時々曇り"
+        },
+        {
+            "icon": "03_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/03_n.gif",
+            "title": "晴時々雨"
+        },
+        {
+            "icon": "04_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/04_n.gif",
+            "title": "晴時々雪"
+        },
+        {
+            "icon": "05_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/05_n.gif",
+            "title": "晴後曇り"
+        },
+        {
+            "icon": "06_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/06_n.gif",
+            "title": "晴後雨"
+        },
+        {
+            "icon": "07_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/07_n.gif",
+            "title": "晴後雪"
+        },
+        {
+            "icon": "08_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/08_n.gif",
+            "title": "曇り"
+        },
+        {
+            "icon": "09_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/09_n.gif",
+            "title": "曇り時々晴"
+        },
+        {
+            "icon": "10_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/10_n.gif",
+            "title": "曇り時々雨"
+        },
+        {
+            "icon": "11_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/11_n.gif",
+            "title": "曇り時々雪"
+        },
+        {
+            "icon": "12_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/12_n.gif",
+            "title": "曇り後晴"
+        },
+        {
+            "icon": "13_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/13_n.gif",
+            "title": "曇り後雨"
+        },
+        {
+            "icon": "14_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/14_n.gif",
+            "title": "曇り後雪"
+        },
+        {
+            "icon": "15_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/15_n.gif",
+            "title": "雨"
+        },
+        {
+            "icon": "16_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/16_n.gif",
+            "title": "雨時々晴"
+        },
+        {
+            "icon": "17_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/17_n.gif",
+            "title": "雨時々曇り"
+        },
+        {
+            "icon": "18_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/18_n.gif",
+            "title": "雨時々雪"
+        },
+        {
+            "icon": "19_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/19_n.gif",
+            "title": "雨後晴"
+        },
+        {
+            "icon": "20_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/20_n.gif",
+            "title": "雨後曇り"
+        },
+        {
+            "icon": "21_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/21_n.gif",
+            "title": "雨後雪"
+        },
+        {
+            "icon": "22_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/22_n.gif",
+            "title": "暴風雨"
+        },
+        {
+            "icon": "23_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/23_n.gif",
+            "title": "雪"
+        },
+        {
+            "icon": "24_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/24_n.gif",
+            "title": "雪時々晴"
+        },
+        {
+            "icon": "25_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/25_n.gif",
+            "title": "雪時々曇り"
+        },
+        {
+            "icon": "26_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/26_n.gif",
+            "title": "雪時々雨"
+        },
+        {
+            "icon": "27_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/27_n.gif",
+            "title": "雪後晴"
+        },
+        {
+            "icon": "28_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/28_n.gif",
+            "title": "雪後曇り"
+        },
+        {
+            "icon": "29_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/29_n.gif",
+            "title": "雪後雨"
+        },
+        {
+            "icon": "30_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/30_n.gif",
+            "title": "暴風雪"
+        },
+        {
+            "icon": "31_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/31_n.gif",
+            "title": ""
+        },
+        {
+            "icon": "32_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/32_n.gif",
+            "title": ""
+        },
+        {
+            "icon": "33_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/33_n.gif",
+            "title": ""
+        },
+        {
+            "icon": "34_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/34_n.gif",
+            "title": ""
+        },
+        {
+            "icon": "35_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/35_n.gif",
+            "title": ""
+        },
+        {
+            "icon": "36_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/36_n.gif",
+            "title": ""
+        },
+        {
+            "icon": "37_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/37_n.gif",
+            "title": ""
+        },
+        {
+            "icon": "38_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/38_n.gif",
+            "title": ""
+        },
+        {
+            "icon": "39_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/39_n.gif",
+            "title": ""
+        },
+        {
+            "icon": "40_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/40_n.gif",
+            "title": ""
+        },
+        {
+            "icon": "41_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/41_n.gif",
+            "title": ""
+        },
+        {
+            "icon": "42_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/42_n.gif",
+            "title": ""
+        },
+        {
+            "icon": "43_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/43_n.gif",
+            "title": ""
+        },
+        {
+            "icon": "44_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-days-weather/44_n.gif",
+            "title": ""
+        }
+    ],
+    "forecast-point-weather": [
+        {
+            "icon": "01",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/01.gif",
+            "title": "晴れ（昼間）"
+        },
+        {
+            "icon": "02",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/02.gif",
+            "title": "曇り"
+        },
+        {
+            "icon": "03",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/03.gif",
+            "title": ""
+        },
+        {
+            "icon": "04",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/04.gif",
+            "title": ""
+        },
+        {
+            "icon": "05",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/05.gif",
+            "title": "乾雪"
+        },
+        {
+            "icon": "06",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/06.gif",
+            "title": "湿雪"
+        },
+        {
+            "icon": "07",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/07.gif",
+            "title": "みぞれ"
+        },
+        {
+            "icon": "08",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/08.gif",
+            "title": "不明"
+        },
+        {
+            "icon": "09",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/09.gif",
+            "title": "小雨"
+        },
+        {
+            "icon": "10",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/10.gif",
+            "title": "弱雨"
+        },
+        {
+            "icon": "11",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/11.gif",
+            "title": "雨"
+        },
+        {
+            "icon": "12",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/12.gif",
+            "title": "強雨"
+        },
+        {
+            "icon": "13",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/13.gif",
+            "title": "豪雨"
+        },
+        {
+            "icon": "01_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/01_n.gif",
+            "title": "晴れ（夜間）"
+        },
+        {
+            "icon": "02_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/02_n.gif",
+            "title": "曇り"
+        },
+        {
+            "icon": "03_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/03_n.gif",
+            "title": ""
+        },
+        {
+            "icon": "04_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/04_n.gif",
+            "title": ""
+        },
+        {
+            "icon": "05_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/05_n.gif",
+            "title": "乾雪"
+        },
+        {
+            "icon": "06_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/06_n.gif",
+            "title": "湿雪"
+        },
+        {
+            "icon": "07_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/07_n.gif",
+            "title": "みぞれ"
+        },
+        {
+            "icon": "08_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/08_n.gif",
+            "title": "不明"
+        },
+        {
+            "icon": "09_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/09_n.gif",
+            "title": "小雨"
+        },
+        {
+            "icon": "10_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/10_n.gif",
+            "title": "弱雨"
+        },
+        {
+            "icon": "11_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/11_n.gif",
+            "title": "雨"
+        },
+        {
+            "icon": "12_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/12_n.gif",
+            "title": "強雨"
+        },
+        {
+            "icon": "13_n",
+            "url": "https://static.tenki.jp/images/icon/forecast-point-weather/13_n.gif",
+            "title": "豪雨"
+        }
+    ]
+}
